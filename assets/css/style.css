@@ -1,10 +1,3 @@
-/**
-* Template Name: DevFolio
-* Updated: Nov 17 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -937,7 +930,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Portfolio
+# menu
 --------------------------------------------------------------*/
 .work-box {
   margin-bottom: 3rem;
@@ -991,7 +984,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Portfolio Details
+# menu Details
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
